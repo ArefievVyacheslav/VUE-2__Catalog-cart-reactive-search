@@ -1,4 +1,4 @@
-const API = 'https://raw.githubusercontent.com/ArefievVyacheslav/AdvancedJS2/main'
+const API = 'https://raw.githubusercontent.com/ArefievVyacheslav/Vue-cart-os/main'
 
 
 const app = new Vue({
