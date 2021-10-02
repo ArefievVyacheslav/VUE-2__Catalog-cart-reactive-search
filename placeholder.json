@@ -1,0 +1,8 @@
+[
+  {"id": 1, "img": "https://via.placeholder.com/150x100", "name": "T-shit", "price": 54},
+  {"id": 2, "img": "https://via.placeholder.com/150x100", "name": "Dress", "price": 2},
+  {"id": 3, "img": "https://via.placeholder.com/150x100", "name": "Pullover", "price": 43},
+  {"id": 4, "img": "https://via.placeholder.com/150x100", "name": "Hoody", "price": 76},
+  {"id": 5, "img": "https://via.placeholder.com/150x100", "name": "Trousers", "price": 34},
+  {"id": 6, "img": "https://via.placeholder.com/150x100", "name": "Jeans", "price": 87}
+]

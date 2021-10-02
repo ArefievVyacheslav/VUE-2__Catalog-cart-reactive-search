@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "image": "img/product_1.jpg",
+    "title": "Jacket",
+    "description": "This is the best product with a very high rating",
+    "price": 100,
+    "quantity": 0
+  },
+  {
+    "id": 1,
+    "image": "img/product_2.jpg",
+    "title": "Suit",
+    "description": "This is the best product with a very high rating",
+    "price": 350,
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "image": "img/product_3.jpg",
+    "title": "Sweatshirt",
+    "description": "This is the best product with a very high rating",
+    "price": 50,
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "image": "img/product_4.jpg",
+    "title": "Pants",
+    "description": "This is the best product with a very high rating",
+    "price": 40,
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "image": "img/product_5.jpg",
+    "title": "Jacket",
+    "description": "This is the best product with a very high rating",
+    "price": 50,
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "image": "img/product_6.jpg",
+    "title": "T-shirt",
+    "description": "This is the best product with a very high rating",
+    "price": 223,
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "image": "img/product_7.jpg",
+    "title": "Shoes",
+    "description": "This is the best product with a very high rating",
+    "price": 95,
+    "quantity": 0
+  },
+  {
+    "id": 7,
+    "image": "img/product_8.jpg",
+    "title": "Sneap Back",
+    "description": "This is the best product with a very high rating",
+    "price": 75,
+    "quantity": 0
+  }
+]
